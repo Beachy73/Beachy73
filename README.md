@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beachy73
+- 👋 Hi, I’m Zach
 - 👀 I’m interested in programming video games. During my studies I developed a specific interest in AI and VR programming.
 - 📫 Reach me via the contact form or email on my website (https://zachbeach.co.uk)
 
